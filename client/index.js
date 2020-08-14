@@ -101,7 +101,7 @@ function translation(){
         "az", "be", "bg", "ca", "cs", "da", "de", "el", "es", "et",
         "eu", "fi", "fr", "gl", "hr", "hu", "id", "is", "it", "ja",
         "ka", "ko", "lt", "lv", "mn", "nb", "nl", "pl", "pt", "ro",
-        "ru", "sk", "sl", "sr", "sv", "th", "tr", "uk", "vi", "zh"
+        "ru", "sk", "sl", "sr", "sv", "th", "tr", "uk", "vi", "zh","he"
     ].indexOf(userLanguage) === -1 ? "en" : userLanguage;
 
     if(selectedLanguage === "en"){
